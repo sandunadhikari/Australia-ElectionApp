@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 498e6c60b4b61014d80003ab5b5f83e7
+timeCreated: 1543135023
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SARA-BARON
+  fontNames:
+  - SARA-BARON
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
